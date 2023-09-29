@@ -1,0 +1,1 @@
+console.log('hola mundo esto se vera en Node JS Esto se vera en la terminal de comandos');
