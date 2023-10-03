@@ -1,6 +1,6 @@
 <?php
 printf("Abriendo Archivo");
-$archivo_url = fopen("archivo.txt","r");
+$archivo_url = fopen("quijote.txt","r");
 
 $texto = "";
 
